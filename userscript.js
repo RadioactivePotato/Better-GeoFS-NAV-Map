@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Changes the map tiles of GeoFS NAV map
 // @author       krunchiekrunch
-// @match        https://www.geo-fs.com/geofs.php?v=*
+// @match        https://*.geo-fs.com/geofs.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        none
 // @license      GPL-3.0
